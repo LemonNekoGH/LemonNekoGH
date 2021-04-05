@@ -11,4 +11,5 @@
 
 ## EXTRA
 ### WHERE 在哪里可以找到柠喵？
-<a href="https://github.com/LemonNekoGH" target="_blank"><img src="https://img.shields.io/badge/Github-LemonNekoGH-green?logo=github"></a>
+<a href="https://github.com/LemonNekoGH" target="_blank"><img src="https://img.shields.io/badge/-LemonNekoGH-black?logo=github"></a><br>
+<a href="https://www.npmjs.com/~lemon_neko"><img src="https://img.shields.io/badge/-lemon_neko-ba261a?logo=npm"></a>
