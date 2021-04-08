@@ -1,51 +1,114 @@
-# LemonNeko 柠喵
-## BASICS
-### WHAT 这是什么？
+# <span style="font-family:Trebuchet MS;">LemonNeko 柠喵</span>
+## <span style="font-family:Trebuchet MS;">BASICS</span>
+### <span style="font-family:Trebuchet MS;">WHAT 柠喵是什么？</span>
 这一只前后端通吃的猫猫，因为喜欢吃柠檬糖所以叫柠喵。
 
-### WHY 为什么会有柠喵？
+一名跨性别女生。
+
+### <span style="font-family:Trebuchet MS;">WHY 为什么会有柠喵？</span>
 这是一个哲学问题，不适合在这里讨论，可以和柠喵单独聊。
 
-### HOW 如何使用柠喵？
+### <span style="font-family:Trebuchet MS;">HOW 如何使用柠喵？</span>
 给她钱，她就会帮你完成你想做的事情，能力之外的和法律不允许的除外。
 
-## EXTRAS
-### WHERE 在哪里可以找到柠喵？
+## <span style="font-family:Trebuchet MS;">EXTRAS</span>
+### <span style="font-family:Trebuchet MS;">WHERE 在哪里可以找到柠喵？</span>
+[![NPM Badge][NPM-Badge]][NPM-Link]
+[![GitHub Badge][GitHub-Badge]][GitHub-Link]
+[![Twitter Badge][Twitter-Badge]][Twitter-Link]
+[![BiliBili Badge][Bilibili-Badge]][Bilibili-Link]
+[![Matataki Badge][Matataki-Badge]][Matataki-Link]
 
-<!--Matataki-->
-<a href="https://matataki.io/user/7105" target="_blank" style="text-decoration:none;">
-<p style="border:#542de0 2px solid;padding:5px;display:inline-block;border-radius:5px;font-weight:500">
-<svg width="14" xmlns="http://www.w3.org/2000/svg" width="14" viewBox="0 0 207 213" id="icon-matataki"><g><path stroke="#542de0" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" d="M12 31.75l30-.5M92 113.5h30M142 114.5h49M131 165.5h66M75 73.5h118M81 25c20.549-.888 38.316-2.4 53.3-4.536C149.285 18.328 164.185 14.84 179 10M38 83.5h8M93 51l4 8M96 147l8 6M130 46l5 10M182 39l-15 27M95 100c-4.544 10.74-8.347 18.7-11.41 23.882C80.53 129.065 75.666 135.771 69 144M123 114c-3.07 13.34-8.016 26.132-14.837 38.376-5.665 10.167-15.55 28.427-35.814 42.826-6.14 4.362-11.256 6.962-15.349 7.798M12 113.75l30-.5M42 176.5H11M11.5 33v52M42.5 32v26M74.5 74v16M10.5 144v32M148.5 142v10M42.5 114v62M175.5 102v101"></path><path stroke="#542de0" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" d="M193.5 74v16"></path></g></svg>
-<span style="color:#542de0;line-height:16px">LemonNeko</span>
-</p>
-</a>
+### <span style="font-family:Trebuchet MS;">WHICH 柠喵使用哪些语言和工具？</span>
 
-<!--GitHub-->
-<a href="https://github.com/LemonNekoGH" target="_blank" style="text-decoration:none;">
-<p  style="border:black 2px solid;padding:5px;display:inline-block;border-radius:5px;font-weight:500">
-<svg width="14" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24"><title>GitHub icon</title><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg>
-<span style="color:black">LemonNekoGH</span>
-</p>
-</a>
+![HTML5 Badge][HTML5-Badge]
+![CSS3 Badge][CSS3-Badge]
+![TypeScript Badge][TypeScript-Badge]
+![Node.js Badge][Node.js-Badge]
+![Yarn Badge][Yarn-Badge]
+![Webpack Badge][Webpack-Badge]
+![ESLint Badge][ESLint-Badge]
+![Babel Badge][Babel-Badge]
+![Less Badge][Less-Badge]
+![Jest Badge][Jest-Badge]
+![GitHubActions Badge][GitHubActions-Badge]
+![Git Badge][Git-Badge]
+![VisualStudioCode Badge][VisualStudioCode-Badge]
+![VisualStudio Badge][VisualStudio-Badge]
+![MacOS Badge][MacOS-Badge]
+![Windows Badge][Windows-Badge]
+![AS Badge][AS-Badge]
+![Kotlin Badge][Kotlin-Badge]
+![Java Badge][Java-Badge]
+![Spring Badge][Spring-Badge]
 
-<!--Twitter-->
-<a href="https://twitter.com/lemon_neko_cn" target="_blank" style="text-decoration:none;">
-<p  style="border:rgba(29,161,242,1.00) 2px solid;padding:5px;display:inline-block;border-radius:5px;font-weight:500">
-<svg width="14" fill="rgba(29,161,242,1.00)" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24"><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg>
-<span style="color:rgba(29,161,242,1.00)">LemonNeko柠喵</span>
-</p>
-</a>
-<!--NPM-->
-<a style="text-decoration:none;" href="https://www.npmjs.com/~lemon_neko" target="_blank">
-<p style="border:#cb3837 2px solid;padding:5px;display:inline-block;border-radius:5px;font-weight:700">
-<svg width="14" fill="#cb3837" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24"><path d="M1.763 0C.786 0 0 .786 0 1.763v20.474C0 23.214.786 24 1.763 24h20.474c.977 0 1.763-.786 1.763-1.763V1.763C24 .786 23.214 0 22.237 0zM5.13 5.323l13.837.019-.009 13.836h-3.464l.01-10.382h-3.456L12.04 19.17H5.113z"/></svg>
-<span style="color:#cb3837">lemon_neko</span>
-</p>
-</a>
-<!--BiliBili-->
-<a style="text-decoration:none;" href="https://space.bilibili.com/5325421" target="_blank">
-<p style="border:#fc7299 2px solid;padding:5px;display:inline-block;border-radius:5px;font-weight:500;">
-<svg width="14" fill="#fc7299" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24"><path d="M17.813 4.653h.854c1.51.054 2.769.578 3.773 1.574 1.004.995 1.524 2.249 1.56 3.76v7.36c-.036 1.51-.556 2.769-1.56 3.773s-2.262 1.524-3.773 1.56H5.333c-1.51-.036-2.769-.556-3.773-1.56S.036 18.858 0 17.347v-7.36c.036-1.511.556-2.765 1.56-3.76 1.004-.996 2.262-1.52 3.773-1.574h.774l-1.174-1.12a1.234 1.234 0 0 1-.373-.906c0-.356.124-.658.373-.907l.027-.027c.267-.249.573-.373.92-.373.347 0 .653.124.92.373L9.653 4.44c.071.071.134.142.187.213h4.267a.836.836 0 0 1 .16-.213l2.853-2.747c.267-.249.573-.373.92-.373.347 0 .662.151.929.4.267.249.391.551.391.907 0 .355-.124.657-.373.906zM5.333 7.24c-.746.018-1.373.276-1.88.773-.506.498-.769 1.13-.786 1.894v7.52c.017.764.28 1.395.786 1.893.507.498 1.134.756 1.88.773h13.334c.746-.017 1.373-.275 1.88-.773.506-.498.769-1.129.786-1.893v-7.52c-.017-.765-.28-1.396-.786-1.894-.507-.497-1.134-.755-1.88-.773zM8 11.107c.373 0 .684.124.933.373.25.249.383.569.4.96v1.173c-.017.391-.15.711-.4.96-.249.25-.56.374-.933.374s-.684-.125-.933-.374c-.25-.249-.383-.569-.4-.96V12.44c0-.373.129-.689.386-.947.258-.257.574-.386.947-.386zm8 0c.373 0 .684.124.933.373.25.249.383.569.4.96v1.173c-.017.391-.15.711-.4.96-.249.25-.56.374-.933.374s-.684-.125-.933-.374c-.25-.249-.383-.569-.4-.96V12.44c.017-.391.15-.711.4-.96.249-.249.56-.373.933-.373Z"/></svg>
-<span style="color:#fc7299">LemonNeko柠喵</span>
-</p>
-</a>
+
+![GitHub Readme Stats][ReadmeStats-Image]
+
+[GitHub-Link]: https://github.com/LemonNekoGH "GitHub Link"
+[NPM-Link]: https://www.npmjs.com/~lemon_neko "NPM Link"
+[Twitter-Link]: https://twitter.com/lemon_neko_cn "Twitter Link"
+[Bilibili-Link]: https://space.bilibili.com/5325421 "Bilibili Link"
+[Matataki-Link]: https://matataki.io/user/7105 "Matataki Link"
+<!-- #endregion Links -->
+
+<!-- #region Site Badges -->
+[GitHub-Badge]: https://img.shields.io/badge/-@LemonNekoGH-%23181717?&logo=github&logoColor=white "GitHub Badge"
+
+[NPM-Badge]: https://img.shields.io/badge/-@lemon_neko-%23CB3837?&logo=npm&logoColor=white "NPM Badge"
+
+[Twitter-Badge]: https://img.shields.io/badge/-@lemon_neko_cn-1da1f2?&logo=twitter&logoColor=white "Twitter Badge"
+
+[Bilibili-Badge]: https://img.shields.io/badge/-@LemonNeko柠喵-fc7299?&logo=bilibili&logoColor=white "Bilibili Badge"
+
+[Matataki-Badge]: https://img.shields.io/badge/-Matataki@LemonNeko柠喵-542de0 "Matataki Badge"
+
+<!-- #endregion Site Badges -->
+
+<!-- #region Tool Badges -->
+[HTML5-Badge]: https://img.shields.io/badge/-HTML5-%23E34F26?&logo=html5&logoColor=white "HTML5 Badge"
+
+[CSS3-Badge]: https://img.shields.io/badge/-CSS3-%231572B6?&logo=css3&logoColor=white "CSS3 Badge"
+
+[TypeScript-Badge]: https://img.shields.io/badge/-TypeScript-%23007ACC?&logo=typescript&logoColor=white "TypeScript Badge"
+
+[Git-Badge]: https://img.shields.io/badge/-Git-%23F05032?&logo=git&logoColor=white "Git Badge"
+
+[Less-Badge]: https://img.shields.io/badge/-Less-%23CC6699?&logo=less&logoColor=white "Less Badge"
+
+[Jest-Badge]: https://img.shields.io/badge/-Jest-%23C21325?&logo=jest&logoColor=white "Jest Badge"
+
+[Yarn-Badge]: https://img.shields.io/badge/-Yarn-%232C8EBB?&logo=yarn&logoColor=white "Yarn Badge"
+
+[XAML-Badge]: https://img.shields.io/badge/-XAML-%230C54C2?&logo=xaml&logoColor=white "XAML Badge"
+
+[Babel-Badge]: https://img.shields.io/badge/-Babel-%23F9DC3E?&logo=babel&logoColor=white "Babel Badge"
+
+[ESLint-Badge]: https://img.shields.io/badge/-ESLint-%234B32C3?&logo=eslint&logoColor=white "ESLint Badge"
+
+[Node.js-Badge]: https://img.shields.io/badge/-Node.js-%23339933?&logo=node.js&logoColor=white "Node.js Badge"
+
+[Webpack-Badge]: https://img.shields.io/badge/-Webpack-%238DD6F9?&logo=webpack&logoColor=white "Webpack Badge"
+
+[Windows-Badge]: https://img.shields.io/badge/-Windows-%230078D6?&logo=windows&logoColor=white "Windows Badge"
+
+[Prettier-Badge]: https://img.shields.io/badge/-Prettier-%23F7B93E?&logo=prettier&logoColor=white "Prettier Badge"
+
+[VisualStudio-Badge]: https://img.shields.io/badge/-Visual_Studio-%235C2D91?&logo=visual-studio&logoColor=white "Visual Studio Badge"
+
+[GitHubActions-Badge]: https://img.shields.io/badge/-GitHub_Actions-%232088FF?&logo=github-actions&logoColor=white "GitHub Actions Badge"
+
+[VisualStudioCode-Badge]: https://img.shields.io/badge/-Visual_Studio_Code-%23007ACC?&logo=visual-studio-code&logoColor=white "Visual Studio Code Badge"
+
+[MacOS-Badge]: https://img.shields.io/badge/-macOS-%23999999?&logo=apple&logoColor=white "macOS Badge"
+
+[AS-Badge]: https://img.shields.io/badge/-Android_Studio-3DDC84?&logo=android&logoColor=white "AS Badge"
+
+[Kotlin-Badge]: https://img.shields.io/badge/-Kotlin-red?&logo=kotlin&logoColor=white "Kotlin Badge"
+
+[Java-Badge]: https://img.shields.io/badge/-Java-orange?&logo=java&logoColor=white "Java Badge"
+
+[Spring-Badge]: https://img.shields.io/badge/-Spring_Boot-6DB33F?&logo=spring&logoColor=white "Spring Badge"
+<!-- #endregion Tool Badges -->
+
+[ReadmeStats-Image]: https://github-readme-stats.vercel.app/api?username=LemonNekoGH&show_icons=true&bg_color=DEG,fc7299,542de0&icon_color=ffffff&text_color=ffffff&title_color=ffffff "GitHub Readme Stats"
