@@ -21,26 +21,39 @@
 
 ### <span style="font-family:Trebuchet MS;">WHICH 柠喵使用哪些语言和工具？</span>
 
+![MacOS Badge][MacOS-Badge]
+![Windows Badge][Windows-Badge]
+![Android Badge][Android-Badge]
+![Ubuntu][Ubuntu]
+![IOS][IOS]
+
 ![HTML5 Badge][HTML5-Badge]
 ![CSS3 Badge][CSS3-Badge]
 ![TypeScript Badge][TypeScript-Badge]
+![Kotlin Badge][Kotlin-Badge]
+![Java Badge][Java-Badge]
+![Less Badge][Less-Badge]
+
+![Vue][Vue]
+![Vuetify][Vuetify]
+![Element][Element]
+![Spring Badge][Spring-Badge]
 ![Node.js Badge][Node.js-Badge]
 ![Yarn Badge][Yarn-Badge]
 ![Webpack Badge][Webpack-Badge]
 ![ESLint Badge][ESLint-Badge]
 ![Babel Badge][Babel-Badge]
-![Less Badge][Less-Badge]
 ![Jest Badge][Jest-Badge]
-![GitHubActions Badge][GitHubActions-Badge]
 ![Git Badge][Git-Badge]
+![Tomcat Badge][Tomcat-Badge]
+![Gradle Badge][Gradle-Badge]
+![Maven Badge][Maven-Badge]
+
 ![VisualStudioCode Badge][VisualStudioCode-Badge]
-![VisualStudio Badge][VisualStudio-Badge]
-![MacOS Badge][MacOS-Badge]
-![Windows Badge][Windows-Badge]
 ![AS Badge][AS-Badge]
-![Kotlin Badge][Kotlin-Badge]
-![Java Badge][Java-Badge]
-![Spring Badge][Spring-Badge]
+![WS][WS]
+![GitHubActions Badge][GitHubActions-Badge]
+![IDEA][IDEA]
 
 
 ![GitHub Readme Stats][ReadmeStats-Image]
@@ -55,7 +68,7 @@
 <!-- #region Site Badges -->
 [GitHub-Badge]: https://img.shields.io/badge/-@LemonNekoGH-%23181717?&logo=github&logoColor=white "GitHub Badge"
 
-[NPM-Badge]: https://img.shields.io/badge/-@lemon_neko-%23CB3837?&logo=npm&logoColor=white "NPM Badge"
+[NPM-Badge]: https://img.shields.io/badge/-@lemon_neko-%23CB3837?&logo=npm&logoColor=black "NPM Badge"
 
 [Twitter-Badge]: https://img.shields.io/badge/-@lemon_neko_cn-1da1f2?&logo=twitter&logoColor=white "Twitter Badge"
 
@@ -66,6 +79,14 @@
 <!-- #endregion Site Badges -->
 
 <!-- #region Tool Badges -->
+[IDEA]: https://img.shields.io/badge/-Intellij_IDEA-000?logo=intellij-idea&logoColor=white "IDEA"
+[WS]: https://img.shields.io/badge/-WebStorm-000?logo=webstorm&logoColor=white "WS"
+
+[Vue]: https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white "Vue"
+[Element]: https://img.shields.io/badge/-Element-0DBD8B?logo=element&logoColor=white "Element"
+[Vuetify]: https://img.shields.io/badge/-Vuetify-1867C0?logo=vuetify&logoColor=white "Vuetify"
+[IOS]: https://img.shields.io/badge/-iOS-000?logo=apple&logoColor=white "IOS"
+[Ubuntu]: https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white "Ubuntu"
 [HTML5-Badge]: https://img.shields.io/badge/-HTML5-%23E34F26?&logo=html5&logoColor=white "HTML5 Badge"
 
 [CSS3-Badge]: https://img.shields.io/badge/-CSS3-%231572B6?&logo=css3&logoColor=white "CSS3 Badge"
@@ -80,21 +101,15 @@
 
 [Yarn-Badge]: https://img.shields.io/badge/-Yarn-%232C8EBB?&logo=yarn&logoColor=white "Yarn Badge"
 
-[XAML-Badge]: https://img.shields.io/badge/-XAML-%230C54C2?&logo=xaml&logoColor=white "XAML Badge"
-
-[Babel-Badge]: https://img.shields.io/badge/-Babel-%23F9DC3E?&logo=babel&logoColor=white "Babel Badge"
+[Babel-Badge]: https://img.shields.io/badge/-Babel-%23F9DC3E?&logo=babel&logoColor=black "Babel Badge"
 
 [ESLint-Badge]: https://img.shields.io/badge/-ESLint-%234B32C3?&logo=eslint&logoColor=white "ESLint Badge"
 
 [Node.js-Badge]: https://img.shields.io/badge/-Node.js-%23339933?&logo=node.js&logoColor=white "Node.js Badge"
 
-[Webpack-Badge]: https://img.shields.io/badge/-Webpack-%238DD6F9?&logo=webpack&logoColor=white "Webpack Badge"
+[Webpack-Badge]: https://img.shields.io/badge/-Webpack-%238DD6F9?&logo=webpack&logoColor=black "Webpack Badge"
 
 [Windows-Badge]: https://img.shields.io/badge/-Windows-%230078D6?&logo=windows&logoColor=white "Windows Badge"
-
-[Prettier-Badge]: https://img.shields.io/badge/-Prettier-%23F7B93E?&logo=prettier&logoColor=white "Prettier Badge"
-
-[VisualStudio-Badge]: https://img.shields.io/badge/-Visual_Studio-%235C2D91?&logo=visual-studio&logoColor=white "Visual Studio Badge"
 
 [GitHubActions-Badge]: https://img.shields.io/badge/-GitHub_Actions-%232088FF?&logo=github-actions&logoColor=white "GitHub Actions Badge"
 
@@ -102,13 +117,21 @@
 
 [MacOS-Badge]: https://img.shields.io/badge/-macOS-%23999999?&logo=apple&logoColor=white "macOS Badge"
 
-[AS-Badge]: https://img.shields.io/badge/-Android_Studio-3DDC84?&logo=android&logoColor=white "AS Badge"
+[AS-Badge]: https://img.shields.io/badge/-Android_Studio-3DDC84?&logo=android-studio&logoColor=white "AS Badge"
 
 [Kotlin-Badge]: https://img.shields.io/badge/-Kotlin-red?&logo=kotlin&logoColor=white "Kotlin Badge"
 
 [Java-Badge]: https://img.shields.io/badge/-Java-orange?&logo=java&logoColor=white "Java Badge"
 
 [Spring-Badge]: https://img.shields.io/badge/-Spring_Boot-6DB33F?&logo=spring&logoColor=white "Spring Badge"
+
+[Tomcat-Badge]: https://img.shields.io/badge/-Apache_Tomcat-F8DC75?logo=apache-tomcat&logoColor=black "Tomcat Badge"
+
+[Gradle-Badge]: https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white "Gradle Badge"
+
+[Maven-Badge]: https://img.shields.io/badge/-Apache_Maven-C71A36?logo=apache-maven&logoColor=white "Maven Badge"
+
+[Android-Badge]: https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white "Android Badge"
 <!-- #endregion Tool Badges -->
 
 [ReadmeStats-Image]: https://github-readme-stats.vercel.app/api?username=LemonNekoGH&show_icons=true&bg_color=DEG,fc7299,542de0&icon_color=ffffff&text_color=ffffff&title_color=ffffff "GitHub Readme Stats"
