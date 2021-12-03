@@ -1,15 +1,15 @@
 # <span style="font-family:Trebuchet MS;">LemonNeko 柠喵</span>
 ## <span style="font-family:Trebuchet MS;">BASICS</span>
 ### <span style="font-family:Trebuchet MS;">WHAT 柠喵是什么？</span>
-这一只前后端通吃的猫猫，因为喜欢吃柠檬糖所以叫柠喵。
+这一只跨性别猫猫，因为喜欢吃柠檬糖所以叫柠喵，你也可以叫她“柠”。柠喵的身边经常漂浮着一个看起来像平板电脑的东西，那是她制作的宠物。柠喵的梦想是成为游戏制作人！（可以看得出来，操作柠喵的玩家是想在游戏里制作游戏）
 
-一名跨性别女生。
+你也可以点这看 [干员介绍](#明日方舟风格介绍)
 
 ### <span style="font-family:Trebuchet MS;">WHY 为什么会有柠喵？</span>
-这是一个哲学问题，不适合在这里讨论，可以和柠喵单独聊。
+因为柠喵是这个游戏的主角，正在被某个玩家操作中。由于玩家可以自由地进行读档和存档，导致了平行宇宙的出现。欢迎来到柠喵的游戏世界。
 
 ### <span style="font-family:Trebuchet MS;">HOW 如何使用柠喵？</span>
-给她钱，她就会帮你完成你想做的事情，能力之外的和法律不允许的除外。
+给她钱，她就会尝试帮你完成你想做的事情，能力之外、法律不允许和当前玩家不愿意的除外。
 
 ## <span style="font-family:Trebuchet MS;">EXTRAS</span>
 ### <span style="font-family:Trebuchet MS;">WHERE 在哪里可以找到柠喵？</span>
@@ -18,6 +18,8 @@
 [![Twitter Badge][Twitter-Badge]][Twitter-Link]
 [![BiliBili Badge][Bilibili-Badge]][Bilibili-Link]
 [![Matataki Badge][Matataki-Badge]][Matataki-Link]
+[![Slack][Slack]][Slack-Link]
+[![GC][GC]][GC-Link]
 
 ### <span style="font-family:Trebuchet MS;">WHICH 柠喵使用哪些语言和工具？</span>
 
@@ -51,21 +53,18 @@
 
 ![VisualStudioCode Badge][VisualStudioCode-Badge]
 ![AS Badge][AS-Badge]
-![WS][WS]
 ![GitHubActions Badge][GitHubActions-Badge]
-![IDEA][IDEA]
 
-
-![GitHub Readme Stats][ReadmeStats-Image]
-
+<!--以下是图标指向的链接-->
 [GitHub-Link]: https://github.com/LemonNekoGH "GitHub Link"
 [NPM-Link]: https://www.npmjs.com/~lemon_neko "NPM Link"
 [Twitter-Link]: https://twitter.com/lemon_neko_cn "Twitter Link"
 [Bilibili-Link]: https://space.bilibili.com/5325421 "Bilibili Link"
 [Matataki-Link]: https://matataki.io/user/7105 "Matataki Link"
-<!-- #endregion Links -->
+[Slack-Link]: https://gushiji.slack.com/team/U02GZ278C1H "Slack Link"
+[GC-Link]: http://f.gamecreator.com.cn/home.php?mod=space&uid=4247 "GC Link"
 
-<!-- #region Site Badges -->
+<!-- 以下是图标的链接 -->
 [GitHub-Badge]: https://img.shields.io/badge/-@LemonNekoGH-%23181717?&logo=github&logoColor=white "GitHub Badge"
 
 [NPM-Badge]: https://img.shields.io/badge/-@lemon_neko-%23CB3837?&logo=npm&logoColor=black "NPM Badge"
@@ -76,9 +75,6 @@
 
 [Matataki-Badge]: https://img.shields.io/badge/-Matataki@LemonNeko柠喵-542de0 "Matataki Badge"
 
-<!-- #endregion Site Badges -->
-
-<!-- #region Tool Badges -->
 [IDEA]: https://img.shields.io/badge/-Intellij_IDEA-000?logo=intellij-idea&logoColor=white "IDEA"
 [WS]: https://img.shields.io/badge/-WebStorm-000?logo=webstorm&logoColor=white "WS"
 
@@ -131,7 +127,25 @@
 
 [Maven-Badge]: https://img.shields.io/badge/-Apache_Maven-C71A36?logo=apache-maven&logoColor=white "Maven Badge"
 
+[Slack]: https://img.shields.io/badge/-@LemonNeko-4A154B?&logo=slack&logoColor=white "Slack Badge"
+
+[GC]: https://img.shields.io/badge/-GameCreator@LemonNekoGC-F8DC75?&logoColor=white "GC"
+
 [Android-Badge]: https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white "Android Badge"
 <!-- #endregion Tool Badges -->
 
-[ReadmeStats-Image]: https://github-readme-stats.vercel.app/api?username=LemonNekoGH&show_icons=true&bg_color=DEG,fc7299,542de0&icon_color=ffffff&text_color=ffffff&title_color=ffffff "GitHub Readme Stats"
+
+<div id="明日方舟风格介绍"></div>
+
+### 明日方舟风格介绍
+有空的话还是做成图片比较好 \_(:з」∠)_
+
+- 干员星级：3
+- 名称：柠 (Lemon)
+- 阵营：古事纪
+- 职业：特种
+- 分支：怪杰
+- 部署费用：8（精英一后增加部署费用 2，尚无异格形态）
+- 特性：会持续流失生命（每秒3%），优先攻击防御力低的单位
+- 战斗经验：1 年
+- 矿石病感染情况：体表有少量源石结晶分布，参照医学检验报告，确认为感染者
