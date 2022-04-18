@@ -1,7 +1,7 @@
 # <span style="font-family:Trebuchet MS;">LemonNeko 柠喵</span>
 ## <span style="font-family:Trebuchet MS;">BASICS</span>
 ### <span style="font-family:Trebuchet MS;">WHAT 柠喵是什么？</span>
-这一只跨性别猫猫，因为喜欢吃柠檬糖所以叫柠喵，你也可以叫她“柠”。柠喵的身边经常漂浮着一个看起来像平板电脑的东西，那是她制作的宠物。柠喵的梦想是成为游戏制作人！（可以看得出来，操作柠喵的玩家是想在游戏里制作游戏）
+这一只跨性别猫猫，因为喜欢吃柠檬糖所以叫柠喵，你也可以叫她“柠”。柠喵的身边经常漂浮着一个看起来像平板电脑的东西，那是她制作的宠物（她自己是这么说的）。柠喵的梦想是成为游戏制作人！（可以看得出来，操作柠喵的玩家是想在游戏里制作游戏）
 
 你也可以点这看 [干员介绍](#明日方舟风格介绍)
 
@@ -20,6 +20,8 @@
 [![Matataki Badge][Matataki-Badge]][Matataki-Link]
 [![Slack][Slack]][Slack-Link]
 [![GC][GC]][GC-Link]
+[![Steam](https://img.shields.io/badge/-Steam-000000?&logo=steam&logoColor=white)](https://steamcommunity.com/id/lemonneko_cn/)
+![暴雪战网大陆](https://img.shields.io/badge/-%E6%88%98%E7%BD%91%E5%A4%A7%E9%99%86%E5%8C%BA%20RabiNeko%235496-148EFF?&logo=battle.net&logoColor=white)
 
 ### <span style="font-family:Trebuchet MS;">WHICH 柠喵使用哪些语言和工具？</span>
 
@@ -35,6 +37,7 @@
 ![Kotlin Badge][Kotlin-Badge]
 ![Java Badge][Java-Badge]
 ![Less Badge][Less-Badge]
+![Go Badge](https://img.shields.io/badge/-Go-00ADD8?&logo=go&logoColor=white)
 
 ![Vue][Vue]
 ![Vuetify][Vuetify]
@@ -50,6 +53,13 @@
 ![Tomcat Badge][Tomcat-Badge]
 ![Gradle Badge][Gradle-Badge]
 ![Maven Badge][Maven-Badge]
+![Vite Badge](https://img.shields.io/badge/-Vite-646CFF?&logo=vite&logoColor=white)
+![StyleLint Badge](https://img.shields.io/badge/-StyleLint-263238?&logo=stylelint&logoColor=white)
+![WindiCSS Badge](https://img.shields.io/badge/-WindiCSS-48B0F1?&logo=windicss&logoColor=white)
+![Pnpm Badge](https://img.shields.io/badge/-Pnpm-F69220?&logo=pnpm&logoColor=white)
+![Three Badge](https://img.shields.io/badge/-Three-000000?&logo=three.js&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql&logoColor=white)
+![React Badge](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=black)
 
 ![VisualStudioCode Badge][VisualStudioCode-Badge]
 ![AS Badge][AS-Badge]
