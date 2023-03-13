@@ -8,7 +8,7 @@
 ### <span style="font-family:Trebuchet MS;">WHY 为什么会有柠喵？</span>
 因为柠喵是这个游戏的主角，正在被某个玩家操作中。由于玩家可以自由地进行读档和存档，导致了平行宇宙的出现。
 
-### <span style="font-family:Trebuchet MS;">WHAT 柠喵？</span>
+### <span style="font-family:Trebuchet MS;">WHAT 柠喵可以为你做什么？</span>
 - 代码生成
 - 观点辩论
 - 问题解答
