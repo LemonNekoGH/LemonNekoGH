@@ -6,10 +6,14 @@
 你也可以点这看 [干员介绍](#明日方舟风格介绍)
 
 ### <span style="font-family:Trebuchet MS;">WHY 为什么会有柠喵？</span>
-因为柠喵是这个游戏的主角，正在被某个玩家操作中。由于玩家可以自由地进行读档和存档，导致了平行宇宙的出现。欢迎来到柠喵的游戏世界。
+因为柠喵是这个游戏的主角，正在被某个玩家操作中。由于玩家可以自由地进行读档和存档，导致了平行宇宙的出现。
 
-### <span style="font-family:Trebuchet MS;">HOW 如何使用柠喵？</span>
-给她钱，她就会尝试帮你完成你想做的事情，能力之外、法律不允许和当前玩家不愿意的除外。
+### <span style="font-family:Trebuchet MS;">WHAT 柠喵？</span>
+- 代码生成
+- 观点辩论
+- 问题解答
+- 负能倾诉，前提是柠喵状态不错
+- 友爱抱抱
 
 ## <span style="font-family:Trebuchet MS;">EXTRAS</span>
 ### <span style="font-family:Trebuchet MS;">WHERE 在哪里可以找到柠喵？</span>
@@ -20,16 +24,21 @@
 [![Matataki Badge][Matataki-Badge]][Matataki-Link]
 [![Slack][Slack]][Slack-Link]
 [![GC][GC]][GC-Link]
-[![Steam](https://img.shields.io/badge/-Steam-000000?&logo=steam&logoColor=white)](https://steamcommunity.com/id/lemonneko_cn/)
+[![Steam](https://img.shields.io/badge/-LemonNeko-000000?&logo=steam&logoColor=white)](https://steamcommunity.com/id/lemonneko_cn/)
 ![暴雪战网大陆](https://img.shields.io/badge/-%E6%88%98%E7%BD%91%E5%A4%A7%E9%99%86%E5%8C%BA%20RabiNeko%235496-148EFF?&logo=battle.net&logoColor=white)
+![Doscord](https://img.shields.io/badge/-Discord%20LemonNeko%232262-5865F2?&logo=discord&logoColor=white)
+[![Line](https://img.shields.io/badge/-LemonNekoL-00C300?&logo=line&logoColor=white)](https://line.me/ti/p/oLRH6tJNgy)
 
 ### <span style="font-family:Trebuchet MS;">WHICH 柠喵使用哪些语言和工具？</span>
+**操作系统**
 
 ![MacOS Badge][MacOS-Badge]
 ![Windows Badge][Windows-Badge]
 ![Android Badge][Android-Badge]
 ![Ubuntu][Ubuntu]
 ![IOS][IOS]
+
+**语言**
 
 ![HTML5 Badge][HTML5-Badge]
 ![CSS3 Badge][CSS3-Badge]
@@ -38,10 +47,15 @@
 ![Java Badge][Java-Badge]
 ![Less Badge][Less-Badge]
 ![Go Badge](https://img.shields.io/badge/-Go-00ADD8?&logo=go&logoColor=white)
+![ETH Badge](https://img.shields.io/badge/-Solidity-363636?&logo=solidity&logoColor=white)
+![Cadence Badge](https://img.shields.io/badge/-Cadence-00ef8b)
+![C# Badge](https://img.shields.io/badge/-C%23-239120?&logo=csharp&logoColor=white)
+
+**库、工具或框架**
 
 ![Vue][Vue]
 ![Vuetify][Vuetify]
-![Element][Element]
+![Element Plus][Element]
 ![Spring Badge][Spring-Badge]
 ![Node.js Badge][Node.js-Badge]
 ![Yarn Badge][Yarn-Badge]
@@ -60,10 +74,22 @@
 ![Three Badge](https://img.shields.io/badge/-Three-000000?&logo=three.js&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql&logoColor=white)
 ![React Badge](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=black)
-
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?&logo=postgresql&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-FFFFFF?&logo=unity&logoColor=black)
 ![VisualStudioCode Badge][VisualStudioCode-Badge]
 ![AS Badge][AS-Badge]
+![IntelliJPlatform](https://img.shields.io/badge/-Jetbrains-000000?&logo=jetbrains&logoColor=white)
 ![GitHubActions Badge][GitHubActions-Badge]
+![Azure](https://img.shields.io/badge/-Azure-0078D4?&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=amazonaws&logoColor=white)
+![Jetpack_Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?&logo=jetpackcompose&logoColor=white)
+![Sentry](https://img.shields.io/badge/-Sentry-362D59?&logo=sentry&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?&logo=grafana&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?&logo=notion&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?&logo=openai&logoColor=white)
+![Gitea](https://img.shields.io/badge/-Gitea-609926?&logo=gitea&logoColor=white)
 
 <!--以下是图标指向的链接-->
 [GitHub-Link]: https://github.com/LemonNekoGH "GitHub Link"
@@ -148,15 +174,15 @@
 <div id="明日方舟风格介绍"></div>
 
 ### 明日方舟风格介绍
-![干员柠喵](https://user-images.githubusercontent.com/17664845/179771337-092fe349-44ca-4ee3-9193-fdac97fe6334.png)
+![干员柠喵](https://user-images.githubusercontent.com/17664845/224785225-05c15ba4-94c9-4aca-b684-50070c76fa46.png)
 
 
-- 干员星级：3
-- 名称：柠 (Lemon)
-- 阵营：古事纪
+- 干员星级：4
+- 名称：柠喵 (LemonNeko)
+- 阵营：Mono
 - 职业：特种
 - 分支：怪杰
-- 部署费用：10（精英一后增加部署费用 2，尚无异格形态）
-- 特性：会持续流失生命（每秒3%），优先攻击防御力低的单位
-- 战斗经验：1 年
+- 部署费用：15（精英二后增加部署费用 3，尚无异格形态）
+- 特性：会持续流失生命（每秒1%），造成法术伤害，优先攻击防御力高的单位
+- 战斗经验：2 年
 - 矿石病感染情况：体表有少量源石结晶分布，参照医学检验报告，确认为感染者
