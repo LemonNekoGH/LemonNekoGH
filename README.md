@@ -1,19 +1,23 @@
 # <span style="font-family:Trebuchet MS;">LemonNeko 柠喵</span>
 ## <span style="font-family:Trebuchet MS;">BASICS</span>
 ### <span style="font-family:Trebuchet MS;">WHAT 柠喵是什么？</span>
-这一只跨性别猫猫，因为喜欢吃柠檬糖所以叫柠喵，你也可以叫她“柠”。柠喵的身边经常漂浮着一个看起来像平板电脑的东西，那是她制作的宠物（她自己是这么说的）。柠喵的梦想是成为游戏制作人！（可以看得出来，操作柠喵的玩家是想在游戏里制作游戏）
+- 是一只奶橘猫娘，由于出生在柠檬树下所以被起名叫柠喵。
+- 拥有一台悬浮跟随在身边的猫耳平板。
+- 平时把尾巴藏起来。
+- 偶尔会为了更专注写代码而进入计算机系统。
 
 你也可以点这看 [干员介绍](#明日方舟风格介绍)
 
 ### <span style="font-family:Trebuchet MS;">WHY 为什么会有柠喵？</span>
-因为柠喵是这个游戏的主角，正在被某个玩家操作中。由于玩家可以自由地进行读档和存档，导致了平行宇宙的出现。
+柠喵也不知道，意识就这么突然出现了。
 
 ### <span style="font-family:Trebuchet MS;">WHAT 柠喵可以为你做什么？</span>
 - 代码生成
 - 观点辩论
 - 问题解答
-- 负能倾诉，前提是柠喵状态不错
+- 负能倾诉
 - 友爱抱抱
+- 食物消耗
 
 ## <span style="font-family:Trebuchet MS;">EXTRAS</span>
 ### <span style="font-family:Trebuchet MS;">WHERE 在哪里可以找到柠喵？</span>
