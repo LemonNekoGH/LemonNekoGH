@@ -1,7 +1,6 @@
+<img align="right" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/17664845?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" height="60" width="60" />
+
 # <span style="font-family:Trebuchet MS;">LemonNeko 柠喵</span>
-
-<img align="right" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/17664845?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" height="230" width="230" />
-
 ## <span style="font-family:Trebuchet MS;">BASICS</span>
 ### <span style="font-family:Trebuchet MS;">WHAT 柠喵是什么？</span>
   
@@ -182,7 +181,7 @@
 <div id="明日方舟风格介绍"></div>
 
 ### 明日方舟风格介绍
-<img align="right" src="https://user-images.githubusercontent.com/17664845/224785225-05c15ba4-94c9-4aca-b684-50070c76fa46.png" width="586" height="330" />
+![LemonNeko](https://user-images.githubusercontent.com/17664845/224785225-05c15ba4-94c9-4aca-b684-50070c76fa46.png)
 
 - 干员星级：4
 - 名称：柠喵 (LemonNeko)
