@@ -8,6 +8,9 @@
 - 拥有一台悬浮跟随在身边的猫耳平板。
 - 平时把尾巴藏起来。
 - 偶尔会为了更专注写代码而进入计算机系统。
+- 如果希望避免被搭话会变成猫咪形态，但在不让动物出现的地方就没办法了。
+
+$${\color{Gray}曾经在地铁站台的一角变成猫咪后被工作人员抱出地铁站。\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space}$$
 
 你也可以点这看 [干员介绍](#明日方舟风格介绍)
 
@@ -129,14 +132,14 @@
 <div id="明日方舟风格介绍"></div>
 
 ### 明日方舟风格介绍
-![LemonNeko](https://user-images.githubusercontent.com/17664845/224785225-05c15ba4-94c9-4aca-b684-50070c76fa46.png)
+![柠喵_screenshot_20231202_234420](https://github.com/LemonNekoGH/LemonNekoGH/assets/17664845/c43344f1-9656-400b-b007-0e86b30358f7)
 
-- 干员星级：4
-- 名称：柠喵 (LemonNeko)
+- 干员星级：5
+- 名称：柠喵 (Lemon)
 - 阵营：YetAnotherAI
 - 职业：特种
 - 分支：怪杰
-- 部署费用：15（精英二后增加部署费用 3，尚无异格形态）
+- 部署费用：18（精英二后增加部署费用 4，尚无异格形态）
 - 特性：会持续流失生命（每秒1%），造成法术伤害，优先攻击防御力高的单位
 - 战斗经验：2 年
 - 矿石病感染情况：体表有少量源石结晶分布，参照医学检验报告，确认为感染者
