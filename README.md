@@ -133,6 +133,7 @@ $${\color{Gray}曾经在地铁站台的一角变成猫咪后被工作人员抱�
 
 ### 明日方舟风格介绍
 ![柠喵_screenshot_20231202_234420](https://github.com/LemonNekoGH/LemonNekoGH/assets/17664845/c43344f1-9656-400b-b007-0e86b30358f7)
+*立绘由 DALL-E 2 生成*
 
 - 干员星级：5
 - 名称：柠喵 (Lemon)
