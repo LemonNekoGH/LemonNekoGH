@@ -30,6 +30,8 @@
 - 食物消耗 Food Consumption
 
 ### 有趣的项目 Projects
+- [AIRI](https://github.com/moeru-ai/airi): 💖🧸 A container of souls of AI waifu / virtual characters to bring them into our worlds.
+- [FlowChat](https://github.com/lemonnekogh/flow-chat): Chat UI in graph 🌲. Unlike traditional chat UIs, users don’t need to delete messages to explore different responses—they can simply create new branches.
 - [nekomeowww/ollama-operator](https://github.com/nekomeowww/ollama-operator): Yet another operator for running large language models on Kubernetes with ease. Powered by Ollama! 🐫
 - [nekomeowww/insights-bot](https://github.com/nekomeowww/insights-bot): A bot works with OpenAI GPT models to provide insights for your info flows, can be integrated into Telegram, Slack, Discord.
 - [nolebase/integrations](https://github.com/nolebase/integrations): A collection of diverse documentation engineering tools.
