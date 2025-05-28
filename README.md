@@ -2,6 +2,9 @@
 
 <img align="right" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/17664845?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" height="60" width="60" />
 
+- 🐈 A micro cute cat girl programmer, working hard on Airi and FlowChat.
+- 🌱 I am currently Game Developer at [yetanother.ai](https://yetanother.ai).
+
 <a href="#stats" align="center">
   <picture>
     <source
